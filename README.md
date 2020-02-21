@@ -1,7 +1,11 @@
 aula1-famo
 
-este e o meu primeiro commit
+Primeiro Commit
 
-nova Funcinalidade
+Funcionalidade 01
 
-nova funcionalidade 02
+Famo
+
+Funcionalidade 02
+
+Alunos
